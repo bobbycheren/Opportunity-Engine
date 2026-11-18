@@ -1,0 +1,10 @@
+{
+  "name": "opportunity-engine",
+  "displayName": "Opportunity Engine",
+  "version": "2.0.0",
+  "description": "A free AI coach built on Mark Cheren's adult-learning research for choosing and pursuing a job, a business of your own, or more education: training, an apprenticeship, college, finishing a degree, or graduate school. It runs an intake, asks how much help you want, builds a plan you own, and can write a short report for your human coach.",
+  "author": {
+    "name": "Bobby Cheren"
+  },
+  "license": "CC-BY-4.0"
+}
