@@ -1,0 +1,19 @@
+{
+  "name": "opportunity-engine-coaches",
+  "description": "Free AI coaches built on Mark Cheren's adult-learning research: one for jobs, small business, and more education in the United States, and a Kenya version for Partners for Care graduates.",
+  "owner": {
+    "name": "Partners for Care"
+  },
+  "plugins": [
+    {
+      "name": "opportunity-engine",
+      "source": "./plugins/opportunity-engine",
+      "description": "A free AI coach built on Mark Cheren's adult-learning research for choosing and pursuing a job, a business of your own, or more education: training, an apprenticeship, college, finishing a degree, or graduate school. It runs an intake, asks how much help you want, builds a plan you own, and can write a short report for your human coach."
+    },
+    {
+      "name": "kenya-opportunity-engine",
+      "source": "./plugins/kenya-opportunity-engine",
+      "description": "A free AI coach for Partners for Care graduates in Kenya choosing a job, a business, or further training. Built on Mark Cheren's adult-learning research, with Kenya-specific guidance and safety rules for refugees."
+    }
+  ]
+}
